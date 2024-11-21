@@ -32,21 +32,37 @@
 
 
 ### App
-<img src="Picture/app1.png" alt="App1" width="200px">
-<img src="Picture/app2.png" alt="App2" width="200px">
-<img src="Picture/app3.png" alt="App3" width="200px">
-<img src="Picture/app4.png" alt="App4" width="200px">
-<img src="Picture/app5.png" alt="App5" width="200px">
-<img src="Picture/app6.png" alt="App6" width="200px">
+##### Mockup
+<div>
+ <img src="Picture/app-mockup1.png" alt="App1" width="200px">
+ <img src="Picture/app-mockup2.png" alt="App2" width="200px">
+ <img src="Picture/app-mockup3.png" alt="App3" width="200px">
+ <img src="Picture/app-mockup4.png" alt="App4" width="200px">
+ <img src="Picture/app-mockup5.png" alt="App5" width="200px">
+ <img src="Picture/app-mockup6.png" alt="App6" width="200px">
+</div>
 
+##### App
+<div>
+  <img src="Picture/app1.png" alt="App1" width="200px">
+  <img src="Picture/app2.png" alt="App2" width="200px">
+  <img src="Picture/app3.png" alt="App3" width="200px">
+  <img src="Picture/app4.png" alt="App4" width="200px">
+  <img src="Picture/app5.png" alt="App5" width="200px">
+  <img src="Picture/app7.png" alt="App7" width="200px">
+  <img src="Picture/app8.png" alt="App8" width="200px">
+</div>
 
 ### Hardware
-<img src="Picture/hard1.png" alt="hard1" width="500px">
-<img src="Picture/hard2.png" alt="hard2" width="500px">
-<img src="Picture/hard3.jpg" alt="hard3" width="500px">
-<img src="Picture/hard4.jpg" alt="hard4" width="500px">
-<img src="Picture/hard6.jpg" alt="hard6" width="500px">
-<img src="Picture/hard7.jpg" alt="hard7" width="500px">
+<div>
+ <img src="Picture/hard1.png" alt="hard1" width="400px">
+ <img src="Picture/hard2.png" alt="hard2" width="400px">
+ <img src="Picture/hard4.jpg" alt="hard4" width="400px">
+ <img src="Picture/hard6.jpg" alt="hard6" width="400px">
+ <img src="Picture/hard3.jpg" alt="hard3" width="400px">
+ <img src="Picture/hard7.jpg" alt="hard7" width="400px">
+</div>
+
 
 
 ## Architecture
@@ -54,14 +70,14 @@
 <div align="center">
 
   <p align="center">
-    <img src="/uploads/6654f644ab3a1ec5c947bc31bb8c2a6d/그림1.png">
+    <img src="Picture/Architecture.png">
   </p>
 </div>
 
 ## ERD
 <div align="center">
   <p align="center">
-    <img src="/uploads/6de67c4d6230a3e0033dc43a315ea2a8/WCDFarm.png">
+    <img src="Picture/WCDFarm.png">
   </p>
 </div>
 
