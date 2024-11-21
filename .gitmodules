@@ -1,0 +1,3 @@
+[submodule "farm-us-app"]
+	path = farm-us-app
+	url = https://lab.ssafy.com/s11-final/S11P31C104.git
